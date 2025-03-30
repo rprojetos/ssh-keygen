@@ -26,3 +26,6 @@ Your public key has been saved in /home/user/.ssh/your-github-account_ed25519.pu
 2.5-As title enter your github account name
 2.6-Now enter your public key in the text box area
 2.7-And finally click on Add SSH key
+
+## 3-Criando um gitspace - Gerenciando mais de uma conta no github:
+[github.com/rprojetos/gitspace](https://github.com/rprojetos/gitspace)
